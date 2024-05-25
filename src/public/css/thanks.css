@@ -1,0 +1,17 @@
+.thanks-form {
+    width: 1381px;
+    height: 365px;
+    top: 319px;
+    left: 66px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+.thanks-form__back {
+    font-family: Inika;
+    font-size: 280px;
+    font-weight: 400;
+    line-height: 364.84px;
+    text-align: left;
+    text-decoration-color: #8B79690D;
+}

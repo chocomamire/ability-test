@@ -1,0 +1,47 @@
+.confirm {
+    width: 133px;
+    height: 43px;
+    top: 150px;
+    left: 694px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+.table {
+    width: 972px;
+    height: 606px;
+    top: 247px;
+    left: 273px;
+    gap: 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+}
+
+/* .confirm-form__button {} */
+
+.confirm-form__button--submit {
+    width: 内包 (120px)px;
+    height: 固定 (42px)px;
+    top: 903px;
+    left: 696px;
+    padding: 10px 40px 10px 40px;
+    gap: 10px;
+    opacity: 0px;
+}
+
+.correction__button {
+    font-family: Inika;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 26.06px;
+    text-align: left;
+}
+
+.correction__button--submit {
+    width: 40px;
+    height: 24px;
+    top: 914px;
+    left: 868px;
+    gap: 0px;
+    opacity: 0px;
+}
